@@ -22,8 +22,8 @@
 - [Semantic UI](https://semantic-ui.com/) - Semantic empowers designers and developers by creating a shared vocabulary for UI.
 - [Materiel-UI](https://material-ui.com/#/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Pure](https://purecss.io/) - Pure is a ridiculously tiny CSS library you can use to start any web project.
-- [Skeleton](http://getskeleton.com/)
-- [Milligram](https://milligram.io/)
+- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [Milligram](https://milligram.io/) - A minimalist CSS framework
 ### Database
 - [diagrams.net](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software.
 - [The Connection Strings](https://www.connectionstrings.com/) - ConnectionStrings.com helps developers connect software to data.
