@@ -1,1 +1,67 @@
-# tools-list
+# Tools list
+### Cheatsheet
+- [GitSheet](https://gitsheet.wtf/)
+- [Markdown Guide](https://www.markdownguide.org/)
+### CSS
+- [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/)
+- [cubic-bezier()](https://cubic-bezier.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [CSS Peeper](https://csspeeper.com/)
+- [Animista](https://animista.net/)
+- [CSS Scan](https://getcssscan.com/css-box-shadow-examples)
+- [CSS Values](https://cssvalues.com/)
+- [brumm.af](https://brumm.af/shadows)
+- [Bootswatch](https://bootswatch.com/)
+- [Bootstap Studio](https://bootstrapstudio.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Tailwind CSS Components](https://tailwindcomponents.com/)
+- [Material Design](https://material.io/)
+- [Materialize](https://materializecss.com/)
+- [Nebular](https://akveo.github.io/nebular/)
+- [Foundation](https://get.foundation/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Materiel-UI](https://material-ui.com/#/)
+- [Pure](https://purecss.io/)
+- [Skeleton](http://getskeleton.com/)
+- [Milligram](https://milligram.io/)
+### Database
+- [diagrams.net](https://app.diagrams.net/)
+- [The Connection Strings](https://www.connectionstrings.com/)
+### Documents
+- [Invoice Template](https://invoicetemplate.co/free-invoice-template)
+- [Certification Center](https://certification.templatemonster.com/)
+- [Free Programming Books](https://goalkicker.com/)
+### E-Commerce
+- [WooCommerce](https://woocommerce.com/#)
+- [nopCommerce](https://www.nopcommerce.com/fr)
+### Font
+- [Redacted-Font](https://github.com/christiannaths/Redacted-Font)
+- [FontPair](https://fontpair.co/)
+### Javascript
+- [Babel](https://babeljs.io/)
+- [1loc](https://1loc.dev/)
+- [Express](https://expressjs.com/)
+- [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Darkmode.js](https://github.com/sandoche/Darkmode.js)
+- [Peekobot](https://peekobot.github.io/peekobot/)
+- [npm](https://www.npmjs.com/)
+- [JSON Viewer](https://github.com/tulios/json-viewer)
+- [Passport](http://www.passportjs.org/)
+- [CodeSandbox](https://codesandbox.io/s/)
+- [Electron](https://www.electronjs.org/)
+- [Moment.js](https://momentjs.com/)
+- [JSONLint](https://jsonlint.com/)
+- [BundlePhobia](https://bundlephobia.com/)
+- [The Morden Javascript Tutorial](https://javascript.info/)
+- [Stormkit](https://www.stormkit.io/)
+### Practice
+- [CodinGame](https://www.codingame.com/start)
+- [CodeGym](https://codegym.cc/)
+### Regex
+- [RegexGuide](https://regex.guide/)
+- [Regex101](https://regex101.com/)
+- [Regex Tester](https://www.regexpal.com/)
+### Setup
+- [/uses](https://uses.tech/)
+### Wireframe
+- [Placeholdifier](https://github.com/pomber/placeholdifier)
