@@ -37,6 +37,9 @@
 ### Font
 - [Redacted-Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [FontPair](https://fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom) - Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly.
+- [Google Fonts](https://fonts.google.com/?preview.text_type=custom) - Making the web more beautiful, fast, and open through great typography.
+- [JetBrains Mono](https://www.jetbrains.com/fr-fr/lp/mono/) - Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers’ eyes, no matter which IDE you choose.
 ### Javascript
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler.
 - [1loc](https://1loc.dev/) - 214 Favorite JavaScript Utilities in single line of code! No more!
