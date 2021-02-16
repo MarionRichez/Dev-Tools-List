@@ -2,6 +2,8 @@
 ### Cheatsheet
 - [GitSheet](https://gitsheet.wtf/) - A dead simple git cheatsheet.
 - [Markdown Guide](https://www.markdownguide.org/) - Markdown makes writing on the web fast and easy. The Markdown Guide teaches you how to use it.
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/) - Online interactive HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more.
+- [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) - Cheat sheets; don't you just love them?
 ### CSS
 - [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/) - When it comes to finding the right class name, it can quickly drive you to despair. Even the most experienced CSS developers don't always find the right class name right away.
 - [cubic-bezier()](https://cubic-bezier.com/) - A better tool for cubic-bezier() easing.
