@@ -1,11 +1,29 @@
 # Tools list
-### Cheatsheet
+### GIT
 - [GitSheet](https://gitsheet.wtf/) - A dead simple git cheatsheet.
 - [Markdown Guide](https://www.markdownguide.org/) - Markdown makes writing on the web fast and easy. The Markdown Guide teaches you how to use it.
+### HTML Cheat Sheet
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/) - Online interactive HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more.
 - [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) - Cheat sheets; don't you just love them?
-### CSS
+- [HTML Cheat Sheet for Beginners](https://websitesetup.org/html5-cheat-sheet/) - The ultimate HTML reference sheet for beginners. Contains all necessary HTML tags and attributes.
+- [HTML Cheat Sheet [Updated]](https://hackr.io/blog/html-cheat-sheet) - Find all the HTML Tags handy in this neatly compiled HTML Cheat Sheet.
+- [HTML Character Entities Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/html-character-entities/) - HTML character entites.
+### CSS Cheat Sheet
 - [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/) - When it comes to finding the right class name, it can quickly drive you to despair. Even the most experienced CSS developers don't always find the right class name right away.
+- [The Complete CSS Cheat Sheet in PDF and JPGs](https://www.hostinger.com/tutorials/css-cheat-sheet) - CSS is an indispensable part of every website as it dictates how it should look.
+- [Online Interactive CSS Cheat Sheet](https://htmlcheatsheet.com/css/) - CSS Cheat Sheet contains the most common style snippets: CSS gradient, background, button, font-family, border, radius, box and text shadow generators, color picker and more. 
+- [The Mega CSS3 Cheat Sheet Infographic](https://makeawebsitehub.com/css3-mega-cheat-sheet/) - Last month we released a huge HTML5 Cheat Sheet that lists all of the currently supported HTML 5 tags, their descriptions, their attributes and their support
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Our comprehensive guide to CSS flexbox layout.
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.
+- [CSS animations & effects cheat sheet](https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/) - A cheat sheet describing the different code involved in making CSS transitions & animations.
+### Bootstrap Cheatsheet
+- [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/) - An interactive list of Bootstrap classes for version 4.3.1
+- [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp) - Complete List of All Bootstrap Classes.
+- [Bootstrap Cheat Sheet](https://hackr.io/blog/bootstrap-cheat-sheet) - Get Sample Bootstrap classes through this interactive Bootstrap Cheat Sheet. It includes all the coding snippets and a few live sample elements.
+### SASS Cheatsheet
+- [Sass cheatsheet](https://devhints.io/sass) 
+- [Sass(SCSS) Cheatsheet](https://gist.github.com/fredsiika/2958726da1f94a9bd447f4f7bd03a852) - A high-level Sass (SCSS) cheatsheet for the most important functionality features of Sass.
+### CSS
 - [cubic-bezier()](https://cubic-bezier.com/) - A better tool for cubic-bezier() easing.
 - [CSS-Tricks](https://css-tricks.com/) - CSS-Tricks is a website about websites.
 - [CSS Peeper](https://csspeeper.com/) - CSS Peeper is a CSS viewer tailored for Designers. Get access to the useful styles with our Chrome extension.
