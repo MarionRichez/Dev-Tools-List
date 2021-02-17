@@ -77,7 +77,7 @@
 - [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom) - Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly.
 - [Google Fonts](https://fonts.google.com/?preview.text_type=custom) - Making the web more beautiful, fast, and open through great typography.
 - [JetBrains Mono](https://www.jetbrains.com/fr-fr/lp/mono/) - Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers’ eyes, no matter which IDE you choose.
-### Javascript
+## Javascript
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler.
 - [1loc](https://1loc.dev/) - 214 Favorite JavaScript Utilities in single line of code! No more!
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
@@ -94,15 +94,15 @@
 - [BundlePhobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of adding a npm package to your front-end bundle.
 - [The Morden Javascript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
 - [Stormkit](https://www.stormkit.io/) - Stormkit is an infrastructure provider for modern javascript applications which is strongly integrated with popular Git providers.
-### Practice
+## Practice
 - [CodinGame](https://www.codingame.com/start) - Chez CodinGame, notre but est de permettre aux développeurs d'améliorer leurs compétences en continu en résolvant les problèmes de code les plus motivants et en échangeant avec les meilleurs programmeurs du monde.
 - [CodeGym](https://codegym.cc/) - CodeGym is an online Java programming course that is 80% based on practice.
-### Regex
+## Regex
 - [RegexGuide](https://regex.guide/) - The RegexGuide helps you to perceive how useful and powerful regular expressions can be.
 - [Regex101](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [Regex Tester](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
-### Setup
+## Setup
 - [/uses](https://uses.tech/) - A list of /uses pages detailing developer setups.
-### Wireframe
+## Wireframe
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
