@@ -40,6 +40,8 @@
 - [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) - jQuery Cheat Seet will help you create the code for animations, various effects and other features for your website.
 - [jQuery Cheat Sheet](https://oscarotero.com/jquery/) - jQuery cheat sheet in HTML with links to the original API documentation.
 - [jQuery 1.7 Visual Cheat Sheet](https://appletree.or.kr/quick_reference_cards/Javascript/jQuery-17-Visual-Cheat-Sheet.pdf)
+## HTML
+- [ipsm.io](https://ipsm.io/?ref=producthunt) - ipsm.io is a collection of productivity tools for developers and designers.
 ## CSS
 - [cubic-bezier()](https://cubic-bezier.com/) - A better tool for cubic-bezier() easing.
 - [CSS-Tricks](https://css-tricks.com/) - CSS-Tricks is a website about websites.
