@@ -89,7 +89,5 @@
 
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
-
-## Mockup
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
