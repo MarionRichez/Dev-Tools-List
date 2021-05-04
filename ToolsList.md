@@ -69,6 +69,7 @@
 - [BundlePhobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of adding a npm package to your front-end bundle.
 - [The Morden Javascript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
 - [Stormkit](https://www.stormkit.io/) - Stormkit is an infrastructure provider for modern javascript applications which is strongly integrated with popular Git providers.
+- [AOS - Animate on scroll library](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 
 ## Practice
 
