@@ -1,6 +1,17 @@
 # Tools list
 
-[HTML](#html)
+1. [HTML](#html)
+2. [CSS](#css)
+3. [Database](#database)
+4. [Documents](#documents)
+5. [E-Commerce](#e-commerce)
+6. [Font](#font)
+7. [Javascript](#javascript)
+8. [Practice](#practice)
+9. [Regex](#regex)
+10. [Setup](#setup)
+11. [Wireframe](#wireframe)
+12. [Mockup](#mockup)
 
 ## HTML
 
@@ -92,5 +103,8 @@
 
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
+
+## Mockup
+
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
