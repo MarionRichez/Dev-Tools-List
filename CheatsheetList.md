@@ -1,5 +1,14 @@
 # Cheatsheet
 
+1. [GIT](#git)
+2. [HTML](#html)
+3. [CSS](#css)
+4. [Bootstrap](#bootstrap)
+5. [SASS](#sass)
+6. [Javascript](#javascript)
+7. [ReactJS](#reactjs)
+8. [JQuery](#jquery)
+
 ## GIT
 
 - [GitSheet](https://gitsheet.wtf/) - A dead simple git cheatsheet.
