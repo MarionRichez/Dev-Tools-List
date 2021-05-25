@@ -18,6 +18,8 @@
 
 - [ipsm.io](https://ipsm.io/?ref=producthunt) - ipsm.io is a collection of productivity tools for developers and designers.
 
+[Back to menu](#tools-list)
+
 ## CSS
 
 - [cubic-bezier()](https://cubic-bezier.com/) - A better tool for cubic-bezier() easing.
@@ -44,10 +46,14 @@
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Draw and animate Pixel Art, export the results to CSS and download them.
 - [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 
+[Back to menu](#tools-list)
+
 ## Database
 
 - [diagrams.net](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software.
 - [The Connection Strings](https://www.connectionstrings.com/) - ConnectionStrings.com helps developers connect software to data.
+
+[Back to menu](#tools-list)
 
 ## Documents
 
@@ -55,10 +61,14 @@
 - [Certification Center](https://certification.templatemonster.com/) - Pass a exam and instantly get a certificate that you can proudly share on your LinkedIn profile.
 - [Free Programming Books](https://goalkicker.com/) - Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more".
 
+[Back to menu](#tools-list)
+
 ## E-Commerce
 
 - [WooCommerce](https://woocommerce.com/#) - WooCommerce is a customizable, open-source eCommerce platform built on WordPress. Get started quickly and make your way.
 - [nopCommerce](https://www.nopcommerce.com/fr) - Plateforme de commerce électronique gratuite et open source.
+
+[Back to menu](#tools-list)
 
 ## Font
 
@@ -67,6 +77,8 @@
 - [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom) - Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly.
 - [Google Fonts](https://fonts.google.com/?preview.text_type=custom) - Making the web more beautiful, fast, and open through great typography.
 - [JetBrains Mono](https://www.jetbrains.com/fr-fr/lp/mono/) - Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers’ eyes, no matter which IDE you choose.
+
+[Back to menu](#tools-list)
 
 ## Javascript
 
@@ -88,10 +100,14 @@
 - [Stormkit](https://www.stormkit.io/) - Stormkit is an infrastructure provider for modern javascript applications which is strongly integrated with popular Git providers.
 - [AOS - Animate on scroll library](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 
+[Back to menu](#tools-list)
+
 ## Practice
 
 - [CodinGame](https://www.codingame.com/start) - Chez CodinGame, notre but est de permettre aux développeurs d'améliorer leurs compétences en continu en résolvant les problèmes de code les plus motivants et en échangeant avec les meilleurs programmeurs du monde.
 - [CodeGym](https://codegym.cc/) - CodeGym is an online Java programming course that is 80% based on practice.
+
+[Back to menu](#tools-list)
 
 ## Regex
 
@@ -99,19 +115,27 @@
 - [Regex101](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [Regex Tester](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
 
+[Back to menu](#tools-list)
+
 ## Setup
 
 - [/uses](https://uses.tech/) - A list of /uses pages detailing developer setups.
+
+[Back to menu](#tools-list)
 
 ## Wireframe
 
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
 
+[Back to menu](#tools-list)
+
 ## Mockup
 
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
+
+[Back to menu](#tools-list)
 
 ## Other
 - [Avataaars Generator - Generate your own avataaars!](https://getavataaars.com/) - A free online avatar generator for anyone to make their beautiful personal avatar easily!
@@ -122,4 +146,4 @@
 - [Freebies.ByPeople | Comercial use freebies for designers and developers](https://freebies.bypeople.com/) - A selection of free-for-comercial-use resources for designers and developers, conveniently collected and categorized in one place.
 - [Illustrations | unDraw](https://undraw.co/illustrations) - The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
 
-[Back](#tools-list)
+[Back to menu](#tools-list)
