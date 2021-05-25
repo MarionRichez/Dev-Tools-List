@@ -33,6 +33,7 @@
 - [Bootstap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 - [Tailwind CSS](https://tailwindcss.com/) - Documentation for the Tailwind CSS framework.
 - [Tailwind CSS Components](https://tailwindcomponents.com/) - Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.
+- [Tailwind Play](https://play.tailwindcss.com/) - An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
 - [Material Design](https://material.io/) - Build beautiful, usable products faster. Material Design is an adaptable system --backed by open-source code -- that helps teams build high quality digital experiences.
 - [Materialize](https://materializecss.com/) - Materialize is a modern responsive CSS framework based on Material Design by Google.
 - [Nebular](https://akveo.github.io/nebular/) - Customizable Angular UI Library based on Eva Design System with 40+ UI components, 4 visual themes, Auth and Security modules.
@@ -46,6 +47,13 @@
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Draw and animate Pixel Art, export the results to CSS and download them.
 - [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 - [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/) - NES.css is a NES-style CSS Framework.
+- [CSS Values](https://cssvalues.com/) - Web app to search the syntax and all possible values for any valid CSS property.
+- [filters.css](https://bansal.io/filters-css) - CSS only library to apply color filters.
+- [Parsel](https://projects.verou.me/parsel/?selector=%23foo+%3E+.bar+%2B+div.k1.k2+%5Bid%3D%27baz%27%5D%3Ahello%282%29%3Anot%28%3Awhere%28%23yolo%29%29%3A%3Abefore) - A tiny, permissive CSS selector parser.
+- [CSS Variables 101](https://ishadeed.com/article/css-vars-101/) - Learn about CSS variables (CSS custom properties) in detail.
+- [Reseter.css](https://github.com/krishdevdb/reseter.css) - A Futuristic Alternative To Normalize.css And CSS Resets.
+- [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
+- [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 
 [Back to menu](#tools-list)
 
@@ -102,7 +110,12 @@
 - [BundlePhobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of adding a npm package to your front-end bundle.
 - [The Morden Javascript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
 - [Stormkit](https://www.stormkit.io/) - Stormkit is an infrastructure provider for modern javascript applications which is strongly integrated with popular Git providers.
-- [AOS - Animate on scroll library](https://michalsnik.github.io/aos/) - Animate On Scroll Library
+- [AOS - Animate on scroll library](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
+- [Day.js](https://github.com/iamkun/dayjs) - Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API. If you use Moment.js, you already know how to use Day.js.
+- [Searchbox](https://opensource.appbase.io/searchbox/) - Searchbox is a lightweight and performance focused search UI component library to query and display results from your ElasticSearch index using declarative props. It's available for React, Vue and Vanilla JS.
+- [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience, by Modulz.
+- [urlcat](https://github.com/balazsbotond/urlcat) - urlcat is a tiny JavaScript library that makes building URLs very convenient and prevents common mistakes.
+- [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence) - A minimalistic set of tooltips on your app.
 
 [Back to menu](#tools-list)
 
@@ -161,5 +174,13 @@
 - [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
 - [Freebies.ByPeople | Comercial use freebies for designers and developers](https://freebies.bypeople.com/) - A selection of free-for-comercial-use resources for designers and developers, conveniently collected and categorized in one place.
 - [Illustrations | unDraw](https://undraw.co/illustrations) - The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
+- [GitHub Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Prettify your github profile using this amazing readme generator.
+- [flowchart.fun](https://flowchart.fun/) - Create flowcharts and directed graphs from structured text. Export an svg, jpg, or png. Share them with a read-only link. Great for mind maps, flowcharts, process diagrams, and workflows.
+- [iconify.pro](https://www.iconify.pro/fr) - Create a whole set of app icons with one click.
+- [Type Scale Clamp Generator](https://maximeroudier.com/typeScaleClampGenerator/) - This is a type scale generator using clamp() css property.
+- [Meta Tags — Preview, Edit and Generate](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+- [BGJar](https://bgjar.com/) - Free svg background generator for your websites, blogs and app.
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
+- [Limus](https://limus.netlify.app/) - Look at your screenshot at different angles.
 
 [Back to menu](#tools-list)
