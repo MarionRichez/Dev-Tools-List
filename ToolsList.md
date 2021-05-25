@@ -45,6 +45,7 @@
 - [CSS Gradient](https://cssgradient.io/) - CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Draw and animate Pixel Art, export the results to CSS and download them.
 - [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
+- [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/) - NES.css is a NES-style CSS Framework.
 
 [Back to menu](#tools-list)
 
