@@ -12,6 +12,7 @@
 10. [Setup](#setup)
 11. [Wireframe](#wireframe)
 12. [Mockup](#mockup)
+13. [Other](#other)
 
 ## HTML
 
@@ -38,7 +39,10 @@
 - [Materiel-UI](https://material-ui.com/#/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Pure](https://purecss.io/) - Pure is a ridiculously tiny CSS library you can use to start any web project.
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-- [Milligram](https://milligram.io/) - A minimalist CSS framework
+- [Milligram](https://milligram.io/) - A minimalist CSS framework.
+- [CSS Gradient](https://cssgradient.io/) - CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
+- [Pixel Art to CSS](https://www.pixelartcss.com/) - Draw and animate Pixel Art, export the results to CSS and download them.
+- [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 
 ## Database
 
@@ -108,3 +112,12 @@
 
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
+
+## Other
+- [Avataaars Generator - Generate your own avataaars!](https://getavataaars.com/) - A free online avatar generator for anyone to make their beautiful personal avatar easily!
+- [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
+- [MyTemplate.xyz | No-Code Developer Website Builder](https://mytemplate.xyz/) - A No-Code developer website builder experiment created with ReScript. The builder creates a JSON from the user input and renders a pre-defined template.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - This Person Does Not Exist.
+- [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
+- [Freebies.ByPeople | Comercial use freebies for designers and developers](https://freebies.bypeople.com/) - A selection of free-for-comercial-use resources for designers and developers, conveniently collected and categorized in one place.
+- [Illustrations | unDraw](https://undraw.co/illustrations) - The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
