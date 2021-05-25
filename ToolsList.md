@@ -52,6 +52,7 @@
 
 - [diagrams.net](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software.
 - [The Connection Strings](https://www.connectionstrings.com/) - ConnectionStrings.com helps developers connect software to data.
+- [Firebird](https://firebirdsql.org/) - Firebird SQL: The true open-source relational database.
 
 [Back to menu](#tools-list)
 
@@ -67,6 +68,8 @@
 
 - [WooCommerce](https://woocommerce.com/#) - WooCommerce is a customizable, open-source eCommerce platform built on WordPress. Get started quickly and make your way.
 - [nopCommerce](https://www.nopcommerce.com/fr) - Plateforme de commerce électronique gratuite et open source.
+- [PrestaShop](https://www.prestashop.com/fr) - Lancez facilement votre site de vente en ligne avec le logiciel e-commerce PrestaShop. Commencez à vendre et à développer votre activité en ligne !
+- [Shopify](https://www.shopify.fr/) - Créez votre propre site e-commerce en quelques clics avec Shopify. Lancez votre activité et vendez en ligne facilement. Essai gratuit. Lancez-vous !
 
 [Back to menu](#tools-list)
 
@@ -114,6 +117,18 @@
 - [RegexGuide](https://regex.guide/) - The RegexGuide helps you to perceive how useful and powerful regular expressions can be.
 - [Regex101](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [Regex Tester](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+- [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
+- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.
+- [RegexOne](https://regexone.com/) - RegexOne provides a set of interactive lessons and exercises to help you learn regular expressions.
+- [Regex cookbook — Top 10 Most wanted regex](https://medium.com/factory-mind/regex-cookbook-most-wanted-regex-aa721558c3c1) - The most commonly used (and most wanted) regexes.
+- [Regex Golf](https://alf.nu/RegexGolf)
+- [Regex Crossword](https://regexcrossword.com/) - A crossword puzzle game using regular expressions. Earn achievements completing puzzle challenges. Easy tutorials for people new to regular expressions.
+- [Debuggex: Online visual regex tester](https://www.debuggex.com/) - Test your regex by visualizing it with a live editor.
+- [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer.
+- [RegViz: Visual Debugging of Regular Expressions](http://www.regviz.org/) - RegViz is a tool for debugging JavaScript regular expressions in a visual way. Advanced highlighting helps you to understand the structure and purpose of a regular expression and to detect bugs therein. You can test the regular expression on a sample text and formulate test cases. We tried to come up with a very user friendly tool.
+- [Rubular: a Ruby regular expression editor](https://rubular.com/) - Ruby-based regular expression editor/tester.
+- [Free Online Regular Expression Tester](https://www.freeformatter.com/regex-tester.html) - Free online regular expression tester with cheatsheet and most common solutions to common problems.
+- [CodVerter | Regex Tester](https://codverter.com/src/regextester) - Online regex tester to validate regular expression patterns. Editor is updating while typing and flags can be changed as desired.
 
 [Back to menu](#tools-list)
 
