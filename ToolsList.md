@@ -54,6 +54,11 @@
 - [Reseter.css](https://github.com/krishdevdb/reseter.css) - A Futuristic Alternative To Normalize.css And CSS Resets.
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
 - [Charts.css](https://chartscss.org/) - CSS data visualization framework.
+- [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+- [Hover.css](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+- [Magic Animations CSS3](https://www.minimamente.com/project/magic/) - Magic CSS are a set of simple animations to include in your web or app project's.
+- [It's Tuesday](https://shakrmedia.github.io/tuesday/) - It's Tuesday.
+- [WickedCSS animations](http://kristofferandreasen.github.io/wickedCSS/) - A library for CSS3 animations.
 
 [Back to menu](#tools-list)
 
@@ -116,6 +121,15 @@
 - [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience, by Modulz.
 - [urlcat](https://github.com/balazsbotond/urlcat) - urlcat is a tiny JavaScript library that makes building URLs very convenient and prevents common mistakes.
 - [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence) - A minimalistic set of tooltips on your app.
+- [anime.js](https://animejs.com/) - Javascript animation engine.
+- [WOW.js](https://www.delac.io/wow/) - WOW.js is a JavaScript plugin that reveals animations when you scroll. Very Animate.css Friend.
+- [slick](https://kenwheeler.github.io/slick/) - slick is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more!
+- [Popmotion](https://popmotion.io/pure/) - A functional, flexible JavaScript motion library.
+- [Granim.js](https://sarcadass.github.io/granim.js/index.html) - Create fluid and interactive gradient animations with this small javascript library.
+- [Bounce.js](http://bouncejs.com/) - Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations.
+- [vivus.js](https://maxwellito.github.io/vivus/) - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. There are a variety of different animations available, as well as the option to create a custom script to draw your SVG in whatever way you like.
+- [Choreographer-js](https://christinecha.github.io/choreographer-js/) - A simple library to take care of complex CSS animations.
+- [AniJS](https://anijs.github.io/) - AniJS, Declarative handling library for CSS animations.
 
 [Back to menu](#tools-list)
 
