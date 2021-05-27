@@ -59,6 +59,7 @@
 - [Magic Animations CSS3](https://www.minimamente.com/project/magic/) - Magic CSS are a set of simple animations to include in your web or app project's.
 - [It's Tuesday](https://shakrmedia.github.io/tuesday/) - It's Tuesday.
 - [WickedCSS animations](http://kristofferandreasen.github.io/wickedCSS/) - A library for CSS3 animations.
+- [MVP.css](https://andybrewer.github.io/mvp/) - MVP.css - No classes, no framework. Just semantic HTML and you're done.
 
 [Back to menu](#tools-list)
 
@@ -196,5 +197,6 @@
 - [BGJar](https://bgjar.com/) - Free svg background generator for your websites, blogs and app.
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
 - [Limus](https://limus.netlify.app/) - Look at your screenshot at different angles.
+- [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1) - Although Git is a very powerful tool, I think most people would agree when I say it can also be... a... Tagged with git, computerscience, tutorial.
 
 [Back to menu](#tools-list)
