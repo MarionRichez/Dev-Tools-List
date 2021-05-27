@@ -9,9 +9,9 @@
 7. [Javascript](#javascript)
 8. [Practice](#practice)
 9. [Regex](#regex)
-10. [Setup](#setup)
-11. [Wireframe](#wireframe)
-12. [Mockup](#mockup)
+10. [Wireframe](#wireframe)
+11. [Mockup](#mockup)
+12. [Git](#git)
 13. [Other](#other)
 
 ## HTML
@@ -29,37 +29,38 @@
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples) - Beautiful CSS box-shadow examples.
 - [CSS Values](https://cssvalues.com/) - CSS Values is a simple single page web app (SPA) that lets you search for almost any CSS property and get a simple list of possible values.
 - [brumm.af](https://brumm.af/shadows)
-- [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap.
-- [Bootstap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
-- [Tailwind CSS](https://tailwindcss.com/) - Documentation for the Tailwind CSS framework.
-- [Tailwind CSS Components](https://tailwindcomponents.com/) - Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.
-- [Tailwind Play](https://play.tailwindcss.com/) - An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
-- [Material Design](https://material.io/) - Build beautiful, usable products faster. Material Design is an adaptable system --backed by open-source code -- that helps teams build high quality digital experiences.
-- [Materialize](https://materializecss.com/) - Materialize is a modern responsive CSS framework based on Material Design by Google.
-- [Nebular](https://akveo.github.io/nebular/) - Customizable Angular UI Library based on Eva Design System with 40+ UI components, 4 visual themes, Auth and Security modules.
-- [Foundation](https://get.foundation/) - The most advanced responsive front-end framework in the world.
-- [Semantic UI](https://semantic-ui.com/) - Semantic empowers designers and developers by creating a shared vocabulary for UI.
-- [Materiel-UI](https://material-ui.com/#/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Pure](https://purecss.io/) - Pure is a ridiculously tiny CSS library you can use to start any web project.
-- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-- [Milligram](https://milligram.io/) - A minimalist CSS framework.
 - [CSS Gradient](https://cssgradient.io/) - CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Draw and animate Pixel Art, export the results to CSS and download them.
 - [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
-- [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/) - NES.css is a NES-style CSS Framework.
 - [CSS Values](https://cssvalues.com/) - Web app to search the syntax and all possible values for any valid CSS property.
 - [filters.css](https://bansal.io/filters-css) - CSS only library to apply color filters.
 - [Parsel](https://projects.verou.me/parsel/?selector=%23foo+%3E+.bar+%2B+div.k1.k2+%5Bid%3D%27baz%27%5D%3Ahello%282%29%3Anot%28%3Awhere%28%23yolo%29%29%3A%3Abefore) - A tiny, permissive CSS selector parser.
 - [CSS Variables 101](https://ishadeed.com/article/css-vars-101/) - Learn about CSS variables (CSS custom properties) in detail.
 - [Reseter.css](https://github.com/krishdevdb/reseter.css) - A Futuristic Alternative To Normalize.css And CSS Resets.
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
-- [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 - [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 - [Hover.css](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [Magic Animations CSS3](https://www.minimamente.com/project/magic/) - Magic CSS are a set of simple animations to include in your web or app project's.
 - [It's Tuesday](https://shakrmedia.github.io/tuesday/) - It's Tuesday.
 - [WickedCSS animations](http://kristofferandreasen.github.io/wickedCSS/) - A library for CSS3 animations.
 - [MVP.css](https://andybrewer.github.io/mvp/) - MVP.css - No classes, no framework. Just semantic HTML and you're done.
+- [Charts.css](https://chartscss.org/) - CSS data visualization framework.
+- [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/) - NES.css is a NES-style CSS Framework.
+- [Milligram](https://milligram.io/) - A minimalist CSS framework.
+- [Foundation](https://get.foundation/) - The most advanced responsive front-end framework in the world.
+- [Materialize](https://materializecss.com/) - Materialize is a modern responsive CSS framework based on Material Design by Google.
+- [Tailwind CSS](https://tailwindcss.com/) - Documentation for the Tailwind CSS framework.
+- [Tailwind CSS Components](https://tailwindcomponents.com/) - Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.
+- [Tailwind Play](https://play.tailwindcss.com/) - An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
+- [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world.
+- [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap.
+- [Bootstap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
+- [Material Design](https://material.io/) - Build beautiful, usable products faster. Material Design is an adaptable system --backed by open-source code -- that helps teams build high quality digital experiences.
+- [Nebular](https://akveo.github.io/nebular/) - Customizable Angular UI Library based on Eva Design System with 40+ UI components, 4 visual themes, Auth and Security modules.
+- [Semantic UI](https://semantic-ui.com/) - Semantic empowers designers and developers by creating a shared vocabulary for UI.
+- [Materiel-UI](https://material-ui.com/#/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Pure](https://purecss.io/) - Pure is a ridiculously tiny CSS library you can use to start any web project.
+- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 
 [Back to menu](#tools-list)
 
@@ -161,12 +162,6 @@
 
 [Back to menu](#tools-list)
 
-## Setup
-
-- [/uses](https://uses.tech/) - A list of /uses pages detailing developer setups.
-
-[Back to menu](#tools-list)
-
 ## Wireframe
 
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
@@ -178,6 +173,13 @@
 
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
+
+[Back to menu](#tools-list)
+
+## Git
+
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
+- [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1) - Although Git is a very powerful tool, I think most people would agree when I say it can also be... a... Tagged with git, computerscience, tutorial.
 
 [Back to menu](#tools-list)
 
@@ -195,8 +197,6 @@
 - [Type Scale Clamp Generator](https://maximeroudier.com/typeScaleClampGenerator/) - This is a type scale generator using clamp() css property.
 - [Meta Tags — Preview, Edit and Generate](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [BGJar](https://bgjar.com/) - Free svg background generator for your websites, blogs and app.
-- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
 - [Limus](https://limus.netlify.app/) - Look at your screenshot at different angles.
-- [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1) - Although Git is a very powerful tool, I think most people would agree when I say it can also be... a... Tagged with git, computerscience, tutorial.
 
 [Back to menu](#tools-list)
