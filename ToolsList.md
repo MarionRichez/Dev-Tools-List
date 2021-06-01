@@ -198,5 +198,6 @@
 - [Meta Tags — Preview, Edit and Generate](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [BGJar](https://bgjar.com/) - Free svg background generator for your websites, blogs and app.
 - [Limus](https://limus.netlify.app/) - Look at your screenshot at different angles.
+- [Developer Ipsum](https://developer-ipsum.netlify.app/) - Lorem for NERDS!!!
 
 [Back to menu](#tools-list)
