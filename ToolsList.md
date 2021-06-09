@@ -2,17 +2,19 @@
 
 1. [HTML](#html)
 2. [CSS](#css)
-3. [Database](#database)
-4. [Documents](#documents)
-5. [E-Commerce](#e-commerce)
-6. [Font](#font)
-7. [Javascript](#javascript)
-8. [Practice](#practice)
-9. [Regex](#regex)
-10. [Wireframe](#wireframe)
-11. [Mockup](#mockup)
-12. [Git](#git)
-13. [Other](#other)
+3. [Icon](#icon)
+4. [Framework](#framework)
+5. [Database](#database)
+6. [Documents](#documents)
+7. [E-Commerce](#e-commerce)
+8. [Font](#font)
+9. [Javascript](#javascript)
+10. [Practice](#practice)
+11. [Regex](#regex)
+12. [Wireframe](#wireframe)
+13. [Mockup](#mockup)
+14. [Git](#git)
+15. [Other](#other)
 
 ## HTML
 
@@ -52,6 +54,8 @@
 - [Tailwind CSS](https://tailwindcss.com/) - Documentation for the Tailwind CSS framework.
 - [Tailwind CSS Components](https://tailwindcomponents.com/) - Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.
 - [Tailwind Play](https://play.tailwindcss.com/) - An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
+- [Meraki UI Tailwind CSS Components](https://merakiui.com/) - Beautiful Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode.
+- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks.
 - [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world.
 - [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap.
 - [Bootstap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
@@ -61,6 +65,20 @@
 - [Materiel-UI](https://material-ui.com/#/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Pure](https://purecss.io/) - Pure is a ridiculously tiny CSS library you can use to start any web project.
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS.
+
+[Back to menu](#tools-list)
+
+## Icon
+
+- [Line Awesome](https://icons8.com/line-awesome) - Replace Font Awesome with modern line icons with a single line of code.
+
+[Back to menu](#tools-list)
+
+## Framework
+
+- [Halfmoon](https://www.gethalfmoon.com/) - Halfmoon is a responsive front-end framework that is great for building dashboards and tools. Built-in dark mode, full customizability using CSS variables (around 1,500 variables), optional JavaScript library (no jQuery), Bootstrap like classes, and cross-browser compatibility (including IE11).
+- [Arwes](https://arwes.dev/) - Futuristic Sci-Fi UI Web Framework.
 
 [Back to menu](#tools-list)
 
@@ -96,6 +114,7 @@
 - [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom) - Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly.
 - [Google Fonts](https://fonts.google.com/?preview.text_type=custom) - Making the web more beautiful, fast, and open through great typography.
 - [JetBrains Mono](https://www.jetbrains.com/fr-fr/lp/mono/) - Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers’ eyes, no matter which IDE you choose.
+- [Type Scale - A Visual Calculator](https://type-scale.com/) - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.
 
 [Back to menu](#tools-list)
 
@@ -166,6 +185,8 @@
 
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
+- [Excalidraw](https://excalidraw.com/) - Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [Wireflow](https://wireflow.co/) - Wireflow is free, online and open source tool for creating beautiful user flow prototypes. No Photoshop skills required! 
 
 [Back to menu](#tools-list)
 
@@ -173,6 +194,7 @@
 
 - [Webshot](https://trywebshot.tk/) - Instantly create a mockup for any website.
 - [Dimmy.club](https://dimmy.club/) - Device mockup generator for your screenshots.
+- [Screenshot.Rocks](https://screenshot.rocks/) - Create mobile or browser mockups from screenshots in seconds. Screenshot.rocks turns ordinary browser screenshots into beautiful mockups.
 
 [Back to menu](#tools-list)
 
@@ -199,5 +221,13 @@
 - [BGJar](https://bgjar.com/) - Free svg background generator for your websites, blogs and app.
 - [Limus](https://limus.netlify.app/) - Look at your screenshot at different angles.
 - [Developer Ipsum](https://developer-ipsum.netlify.app/) - Lorem for NERDS!!!
+- [Beauty link previews — Microlink](https://microlink.io/sdk) - Turns websites into data: Enter a URL, receive information. Make any URL embeddable. Capture any website as a snapshot. Generate PDF from any website. Automate web performance.
+- [Roam Research](https://roamresearch.com/) - As easy to use as a word document or bulleted list, and as powerful for finding, collecting, and connecting related ideas as a graph database. Collaborate with others in real time, or store all your data locally.
+- [Icon Transition Generator](https://nucleoapp.com/tool/icon-transition) - Create an animated transition between two icons and download the SVG code. Upload the generated code to Nucleo or import it into your web project.
+- [Big Timer - Fullscreen countdown timer](https://www.bigtimer.net/?minutes=10&repeat=false) - Fullscreen countdown timer for workshops, presentations and meetings. Probably the biggest timer you can fit on a screen. No ads!
+- [musicForProgramming](https://musicforprogramming.net/) - A collaborative series of mixes designed for listening while programming (compatible with other activities).
+- [Happy Hues - Curated colors in context.](https://www.happyhues.co/) - See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.
+- [guijs](https://guijs.dev/) - 🐣️ The app that makes your #devlife easier.
+- [Public APIs](https://public-apis.io/) - A collective list of more than 1000 Free Public and Open REST APIs for developers like movie APIs, Anime APIs, weather APIs, music APIs, games and comics APIs, currency APIs, sports APIs, science APIs, open data APIs, etc.
 
 [Back to menu](#tools-list)
