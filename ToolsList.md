@@ -87,6 +87,7 @@
 - [diagrams.net](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software.
 - [The Connection Strings](https://www.connectionstrings.com/) - ConnectionStrings.com helps developers connect software to data.
 - [Firebird](https://firebirdsql.org/) - Firebird SQL: The true open-source relational database.
+- [bit.io](https://bit.io/) - Create a Postgres database. Share it with anyone.
 
 [Back to menu](#tools-list)
 
