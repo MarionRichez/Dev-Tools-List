@@ -19,6 +19,7 @@
 ## HTML
 
 - [ipsm.io](https://ipsm.io/?ref=producthunt) - ipsm.io is a collection of productivity tools for developers and designers.
+- [TeamGoGoEmail](https://teamgogoemail.herokuapp.com/) - Serverless HTML form. Use your HTML form and submit to our API.
 
 [Back to menu](#tools-list)
 
@@ -187,7 +188,7 @@
 - [Placeholdifier](https://github.com/pomber/placeholdifier) - Turn any website into a live wireframe.
 - [Wireframe](https://wireframe.cc/) - A powerful, intuitive app for creating and sharing wireframes.
 - [Excalidraw](https://excalidraw.com/) - Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [Wireflow](https://wireflow.co/) - Wireflow is free, online and open source tool for creating beautiful user flow prototypes. No Photoshop skills required! 
+- [Wireflow](https://wireflow.co/) - Wireflow is free, online and open source tool for creating beautiful user flow prototypes. No Photoshop skills required!
 
 [Back to menu](#tools-list)
 
